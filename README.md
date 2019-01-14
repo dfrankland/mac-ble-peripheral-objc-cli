@@ -124,3 +124,16 @@ I hope you find the example useful!
 
 Happy hacking!
 
+## Build & Run Instructions
+
+1.  Build it using Xcode
+
+    ```bash
+    xcodebuild
+    ```
+
+2.  Run it
+
+    ```bash
+    ./build/Release/mac-ble-peripheral-objc-cli.app/Contents/MacOS/mac-ble-peripheral-objc-cli
+    ```
